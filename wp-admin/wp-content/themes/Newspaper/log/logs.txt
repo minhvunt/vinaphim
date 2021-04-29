@@ -1,0 +1,35 @@
+=============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+=============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+=============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+=============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+

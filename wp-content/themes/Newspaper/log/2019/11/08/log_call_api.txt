@@ -1,0 +1,19 @@
+[08/Nov/2019:07:24:09] (index) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:07:24:36] (index) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:08:10:31] (index) demomomomoomommomom

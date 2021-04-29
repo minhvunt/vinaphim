@@ -1,0 +1,163 @@
+[08/Nov/2019:04:16:15] (plugins) demomomomoomommomom
+[08/Nov/2019:04:16:40] (plugins) demomomomoomommomom
+[08/Nov/2019:04:16:41] (plugins) demomomomoomommomom
+[08/Nov/2019:04:16:41] (plugins) demomomomoomommomom
+[08/Nov/2019:04:16:41] (plugins) demomomomoomommomom
+[08/Nov/2019:06:27:41] (plugins) demomomomoomommomom
+[08/Nov/2019:06:27:52] (plugins) demomomomoomommomom
+[08/Nov/2019:06:27:54] (plugins) demomomomoomommomom
+[08/Nov/2019:06:27:54] (plugins) demomomomoomommomom
+[08/Nov/2019:06:27:54] (plugins) demomomomoomommomom
+[08/Nov/2019:06:41:10] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:42:25] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:42:26] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:42:36] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:42:37] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:42:37] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:42:37] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:45:18] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:45:34] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:06:47:37] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:07:07:56] (plugins) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:07:24:27] (admin-ajax) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:07:26:27] (admin-ajax) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:07:28:28] (admin-ajax) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:07:30:28] (admin-ajax) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:07:32:28] (admin-ajax) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+
+[08/Nov/2019:07:33:27] (edit) =============================BEGIN JOTV&&Sub_transaction_details =========================
+URL :  : Username:  : Password: 
+DATA SEND : {"service":"Sub_transaction_details","serviceCode":"JOTV","param":{"msisdn":"090942342342"}}
+DATA RECEIVE : false
+SERVER_ERROR : <url> malformed
+=============================END JOTV=========================
+
+
+

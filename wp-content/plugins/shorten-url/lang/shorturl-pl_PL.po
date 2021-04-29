@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Generated: SL Framework (http://www.sedlex.fr)\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-03-21T14:06:27+00:00\n"
+"Last-Translator: PiotrL <www.xpil.eu>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: Poland\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+
+msgid "The permalink options should not be configured to default in order to enable Short-URL."
+msgstr "Opcje odnośników nie mogą być ustawione na domyślne, jeżeli chcesz włączyć Short-URL."
+
+msgid "Please go to %s page to correct it."
+msgstr "Przejdź do strony %s aby poprawić."
+
+msgid "An error occurs when updating the database."
+msgstr "Wystąpił błąd podczas zapisywania do bazy danych."
+
+msgid "An error occurs when updating the database. Nevertheless %s sentences has been imported successfully."
+msgstr "Wystąpił błąd podczas zapisywania do bazy danych. Pomimo to, %s pozycji zostało zaimportowanych poprawnie."
+
+msgid "%s short URL have been added to the database."
+msgstr "%s krótkich URL-i zostało dodanych do bazy."
+
+msgid "The number of displayed URL cannot exceed %s. Thus the number of url is limited to this number."
+msgstr "Ilość wyświetlanych URL-i nie może być większa, niż %s."
+
+msgid "Title of your articles"
+msgstr "Tytuł wpisu"
+
+msgid "Short URL"
+msgstr "Krótki URL"
+
+msgid "Type"
+msgstr "Typ"
+
+msgid "Number of clicks"
+msgstr "Ilość kliknięć"
+
+msgid "Reset"
+msgstr "Reset"
+
+msgid "Edit"
+msgstr "Edycja"
+
+msgid "Select the file:"
+msgstr "Wybierz plik:"
+
+msgid "Import a file with shorturls"
+msgstr "Zaimportuj plik ze skrótami"
+
+msgid "Export the shorturls"
+msgstr "Wyeksportuj skróty"
+
+msgid "Import/Export Short URL"
+msgstr "Import/eksport skrótów"
+
+msgid "Internal Redirections"
+msgstr "Wewnętrzne przekierowania"
+
+msgid "External URL"
+msgstr "Zewnętrzny URL"
+
+msgid "Comment"
+msgstr "Komentarz"
+
+msgid "Delete"
+msgstr "Skasuj"
+
+msgid "External URL:"
+msgstr "Zewnętrzny URL:"
+
+msgid "Comments:"
+msgstr "Komentarze:"
+
+msgid "Add a new URL to shorten"
+msgstr "Dodaj nowy URL do skrócenia"
+
+msgid "External Redirections"
+msgstr "Zewnętrzne przekierowania"
+
+msgid "This plugin helps you sharing your post with short-links."
+msgstr "Ta wtyczka pomaga dzielić się swoimi wpisami za pomocą krótkich adresów www."
+
+msgid "When the function %s is called, this plugin replace the normal short links by a special crafted short links."
+msgstr "Kiedy fukncja %s zostaje wywołana, ta wtyczka zastępuje standardowe krótkie linki ich specjalną wersją"
+
+msgid "The short URL may be for instance %s of %s (the length of the short link may be configured)."
+msgstr "Krótki URL może być na przykład %s z %s (długość krótkiego linka może być skonfigurowana)"
+
+msgid "."
+msgstr "."
+
+msgid "How it works?"
+msgstr "Jak to działa?"
+
+msgid "To display the shorten URL, you just have to choose the position of the display (top, bottom, etc.) in the configuration tab."
+msgstr "Aby wyświetlić krótki URL, musisz wybrać pozycję (góra, dół itd) w zakładce Konfiguracja"
+
+msgid "You may also display the shorten URL whereever you want by using the %s function (for instance in your theme)."
+msgstr "Możesz również wyświetlić krótkiego URL-a gdziekolwiek indziej, używając funkcji %s"
+
+msgid "How to display the short URL?"
+msgstr "Jak wyświetlić krótkiego URL-a?"
+
+msgid "When your server see the request short URL, it will automatically redirect to the normal page."
+msgstr "Kiedy Twój serwer wykrywa krótkiego URL-a, automatycznie przekierowuje do strony docelowej."
+
+msgid "You may also choose to redirect the short URL through an internal page:"
+msgstr "Możesz również przekierować krótkie URL-e za pośrednictwem innej, wbudowanej strony:"
+
+msgid "You just have to choose a specially crafted page to display during the redirection;"
+msgstr "Powinieneś wybrać specjalnie w tym celu utworzoną stronę, która będzie wyświetlona w czasie przekierowywania;"
+
+msgid "In the page, you may insert %s to display the number of seconds remaining;"
+msgstr "Na tej stronie możesz użyć %s aby wyświetlić ilość pozostałych sekund;"
+
+msgid "You may also insert %s to display the URL of the page to where the redirection will be performed;"
+msgstr "Możesz również użyć %s aby wyświetlić URL docelowej strony."
+
+msgid "How to redirect works?"
+msgstr "Jak działa przekierowanie?"
+
+msgid "Your WP install should not use default permalinks (i.e. %s) but instead any custom permalinks (i.e. %s or %s)."
+msgstr "Twoja instalacja WP nie powinna używać domyślnych URL-i (tzn %s); zamiast tego powinna używać skonfigurowanych URL-i (np. %s lub %s)"
+
+msgid "Requirements"
+msgstr "Wymagania"
+
+msgid "How To"
+msgstr "Jak"
+
+msgid "Parameters"
+msgstr "Parametry"
+
+msgid "Do you want to use the following characters?"
+msgstr "Chcesz używać następujących znaków?"
+
+msgid "These parameters will be taken in account only for generation of new links"
+msgstr "Te parametry będą brane pod uwagę tylko przy generowaniu nowych linków"
+
+msgid "Lower-case characters ([a-z]):"
+msgstr "Małe litery (a-z])"
+
+msgid "Upper-case characters ([A-Z]):"
+msgstr "Wielkie litery ([A-Z])"
+
+msgid "Numeric characters ([0-9]):"
+msgstr "Cyfry ([0-9])"
+
+msgid "Do you want to use a prefix before your short URL?"
+msgstr "Chcesz używać prefiksu przed krótkim URL-em?"
+
+msgid "Prefix:"
+msgstr "Prefiks:"
+
+msgid "What is the length of your short URL (without the prefix)?"
+msgstr "Jaka jest długość krótkiego URL-a (bez prefiksu)?"
+
+msgid "Length:"
+msgstr "Długość:"
+
+msgid "What are the short links that are to be displayed?"
+msgstr "Jakie krótkie URL-e mają być wyświetlane?"
+
+msgid "Types (separated with comma):"
+msgstr "Typy:"
+
+msgid "For instance %s"
+msgstr "Na przykład %s"
+
+msgid "Note that ALL page will be shorten, but only this types will be displayed in the first tab of this plugin."
+msgstr "Weź pod uwagę, że linki do WSZYSTKICH stron będą skrócone, ale tylko te typy będą wyświetlone w pierwszej zakładce tej wtyczki."
+
+msgid "Customize the short link URL"
+msgstr "Dopasuj krótki URL"
+
+msgid "Remove www:"
+msgstr "Usuń &quot;www&quot;:"
+
+msgid "Therefore, the short URL will begin with %s"
+msgstr "Czyli krótki URL będzie rozpoczynał się od %s"
+
+msgid "Change the root URL of the short link:"
+msgstr "Zmień URL bazowy krótkich linków:"
+
+msgid "If you have a shorter URL pointing to your Wordpress blog, you may configure it here by selecting this option"
+msgstr "Jeżeli istnieje jakiś krótszy adres wskazujący na Twój blog WP, możesz go tutaj skonfigurować wybierając tę opcję"
+
+msgid "Your shorter domain URL:"
+msgstr "Twój krótszy URL:"
+
+msgid "Do you want to automatically shorten links in article?"
+msgstr "Chcesz automatycznie generować krótkie linki we wpisie?"
+
+msgid "Automatic shorten links:"
+msgstr "Automatycznie skracaj linki:"
+
+msgid "Regexp filter:"
+msgstr "Filtr RegEx"
+
+msgid "The above regexp filter is to select the page in which the link urls are shorten. For instance, %s (or %s) configures the plugin to shorten all links, for instance, in pages %s and %s"
+msgstr "Powyższy filtr RegEx służy wybraniu stron, w których odnośniki będą skracane. Na przykład %s (lub %s) konfiguruje wtyczkę aby skracała linki na stronach %s oraz %s"
+
+msgid "Please enter one regexp per line."
+msgstr "Wprowadź jedno wyrażenie regularne (RegEx) na linię."
+
+msgid "If no regexp is entered, links in all pages and posts will be shorten."
+msgstr "Jeżeli nie podasz żadnego wyrażenia regularnego, linki we wszystkich wpisach i stronach będą skracane."
+
+msgid "Where to display the short URL?"
+msgstr "Gdzie wyświetlić krótki URL?"
+
+msgid "At the top of posts:"
+msgstr "Nad wpisem:"
+
+msgid "At the bottom of posts:"
+msgstr "Pod wpisem:"
+
+msgid "At the top of pages:"
+msgstr "Nad stroną:"
+
+msgid "At the bottom of pages:"
+msgstr "Pod stroną:"
+
+msgid "At the top of custom type article:"
+msgstr "Na górze innego rodzaju wpisu:"
+
+msgid "At the bottom of custom type article:"
+msgstr "Na dole innego rodzaju wpisu:"
+
+msgid "At the top of excerpt:"
+msgstr "Na górze lead-u"
+
+msgid "At the bottom of excerpt:"
+msgstr "Na dole lead-u"
+
+msgid "Page to be excluded:"
+msgstr "Strony wykluczone:"
+
+msgid "Please enter one entry per line. If the article %s is to be excluded, you may enter %s."
+msgstr "Wpisz jedną pozycję w każdej linii. Jeżeli wpis %s ma być wykluczony, wpisz %s"
+
+msgid "For instance, %s and %s will exclude the home page."
+msgstr "Na przykład %s i %s wykluczy stronę domową"
+
+msgid "Appearance of such display"
+msgstr "Wygląd takiego ekranu"
+
+msgid "Displayed HTML:"
+msgstr "Wyświetlnany HTML:"
+
+msgid "Note that %s will be automatically replaced by the shorten URL."
+msgstr "Pamiętaj, że %s będzie automatycznie zastąpione krótkim linkiem,"
+
+msgid "In addition, %s will be replaced by the shorten URL withour any html link."
+msgstr "Dodatkowo, %s zostanie zamienione krótkim linkiem bez linka HTML."
+
+msgid "CSS:"
+msgstr "CSS:"
+
+msgid "Redirect first internally"
+msgstr "Najpierw przekieruj wewnętrznie"
+
+msgid "Redirect the short link before to an internal page:"
+msgstr "Przekieruj krótkie linki przez tą stronę:"
+
+msgid "Number of second before the redirection:"
+msgstr "Ilość sekund przekierowania:"
+
+msgid "Redirect through this internal page only the external redirection:"
+msgstr "Przekieruj przez tą stronę tylko linki na zewnątrz:"
+
+msgid "Advanced options"
+msgstr "Opcje zaawansowane:"
+
+msgid "Max number of displayed internal redirection:"
+msgstr "Maksymalna ilość wewnętrznych przekierowań:"
+
+msgid "Manage translations"
+msgstr "Zarządzaj tłumaczeniami"
+
+msgid "Give feedback"
+msgstr "Przekaż opinię"
+
+msgid "Other plugins"
+msgstr "Inne wtyczki"
+
